@@ -17,6 +17,7 @@
     "concurrently": "^5.1.0"
   },
   "dependencies": {
-    "@apollo/react-hooks": "^4.0.0"
+    "@apollo/react-hooks": "^4.0.0",
+    "debug": "^4.3.4"
   }
 }
